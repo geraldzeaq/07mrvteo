@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/VisorSphere.unity
+    guid: 6ce9f2975bd13d740a3fc6511b62a44c
   m_configObjects: {}
